@@ -1,0 +1,9 @@
+C:\Users\Danilo\Desktop\MIEICS\AppSettingManager\AppSettingManager\bin\Debug\AppSettingManager.exe.config
+C:\Users\Danilo\Desktop\MIEICS\AppSettingManager\AppSettingManager\bin\Debug\AppSettingManager.exe
+C:\Users\Danilo\Desktop\MIEICS\AppSettingManager\AppSettingManager\bin\Debug\AppSettingManager.pdb
+C:\Users\Danilo\Desktop\MIEICS\AppSettingManager\AppSettingManager\obj\Debug\AppSettingManager.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Desktop\MIEICS\AppSettingManager\AppSettingManager\obj\Debug\AppSettingManager.Properties.Resources.resources
+C:\Users\Danilo\Desktop\MIEICS\AppSettingManager\AppSettingManager\obj\Debug\AppSettingManager.csproj.GenerateResource.Cache
+C:\Users\Danilo\Desktop\MIEICS\AppSettingManager\AppSettingManager\obj\Debug\AppSettingManager.exe
+C:\Users\Danilo\Desktop\MIEICS\AppSettingManager\AppSettingManager\obj\Debug\AppSettingManager.pdb
+C:\Users\Danilo\Desktop\MIEICS\AppSettingManager\AppSettingManager\obj\Debug\AppSettingManager.AppSettingTestUI.resources
